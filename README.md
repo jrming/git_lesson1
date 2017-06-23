@@ -1,5 +1,11 @@
-This repository contains the files used for a git lesson.
+This is the third change to the readme file
 
-This is a change to an existing file that git has already tracked.
+Git is a version control system, that lets us write notes to ourself.
+These notes (aka commits) can be multiple lines long.
 
-This is a third change to the file.
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#	modified:   README.md
+#
