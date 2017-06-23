@@ -1,11 +1,7 @@
 This is the third change to the readme file
 
-Git is a version control system, that lets us write notes to ourself.
-These notes (aka commits) can be multiple lines long.
+This is a change to an existing file that git has already tracked.
 
-# Please enter the commit message for your changes. Lines starting
-# with '#' will be ignored, and an empty message aborts the commit.
-# On branch master
-# Changes to be committed:
-#	modified:   README.md
-#
+This is a third change to the file.
+
+Git is a version control system that prevent us from having the "final doc" problem.
